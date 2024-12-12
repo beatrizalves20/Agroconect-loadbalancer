@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a0e0b06.css",
+    "main.js": "/static/js/main.1eb94f7d.js",
+    "static/media/AGRO.png": "/static/media/AGRO.092d66f955c24f3be9ee.png",
+    "static/media/agroConect.svg": "/static/media/agroConect.8cf092745a2ac100238c9a8b738157ac.svg",
+    "index.html": "/index.html",
+    "main.0a0e0b06.css.map": "/static/css/main.0a0e0b06.css.map",
+    "main.1eb94f7d.js.map": "/static/js/main.1eb94f7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a0e0b06.css",
+    "static/js/main.1eb94f7d.js"
+  ]
+}
