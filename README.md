@@ -1,6 +1,6 @@
 # Atividade 2 - Criação do Load Balancer para recursos da aplicação Front-end.
 
-Este projeto configura um Load Balancer para distribuir requisições entre 5 nós executando uma aplicação ReactJs. O ambiente utiliza Nginx e Docker.
+Este documentação configura um Load Balancer para distribuir requisições entre 5 nós executando uma aplicação ReactJs. O ambiente utiliza Nginx e Docker.
 
 ## Estrutura do Projeto
 
